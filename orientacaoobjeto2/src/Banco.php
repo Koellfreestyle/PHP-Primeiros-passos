@@ -30,7 +30,7 @@ $contaTres->saca(300) . PHP_EOL;
 echo $contaTres->recuperaCpfTitular() . PHP_EOL;
 echo $contaTres->recuperaNomeTitular() . PHP_EOL;
 echo $contaTres->recuperaSaldo() . PHP_EOL;
-var_dump($contaTres);
+
 
 
 
